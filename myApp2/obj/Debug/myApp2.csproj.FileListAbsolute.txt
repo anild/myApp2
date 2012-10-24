@@ -1,0 +1,14 @@
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\Bin\Debug\ApplicationIcon.png
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\Bin\Debug\Background.png
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\Bin\Debug\myApp2.dll
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\Bin\Debug\myApp2.pdb
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\Bin\Debug\AppManifest.xaml
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\Bin\Debug\myApp2.xap
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\Bin\Debug\WP7CordovaClassLib.dll
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\obj\Debug\App.g.i.cs
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\obj\Debug\MainPage.g.i.cs
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\obj\Debug\myApp2.g.resources
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\obj\Debug\myApp2.dll
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\obj\Debug\myApp2.pdb
+c:\users\anild\documents\visual studio 2010\Projects\myApp2\myApp2\obj\Debug\XapCacheFile.xml
